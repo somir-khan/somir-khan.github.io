@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": 1,
+    "title": "Bibliometric Data Analysis",
+    "category": "Data Analysis & Research",
+    "description": "Collected & analyzed scholarly data to investigate authorship trends & ethics violations.",
+    "longDescription": "This project involved developing sophisticated web scrapers to collect scholarly data from multiple academic databases including IEEE, ACM, and Scopus. Using Python and R, I analyzed over 10,000 research papers to identify patterns in authorship, citation networks, and potential ethics violations. The project revealed important insights about collaboration networks in academic research and helped identify several cases of self-plagiarism and citation manipulation. The analysis tools developed for this project are now being used by multiple research institutions to evaluate academic integrity.",
+    "technologies": ["Python", "R", "Pandas", "Selenium", "Matplotlib", "BeautifulSoup", "Data Visualization"],
+    "iconType": "Database"
+  },
+  {
+    "id": 2,
+    "title": "Dynamic CPU Scheduling using ML",
+    "category": "Machine Learning Application",
+    "description": "Compared LDA, Decision Trees, and Random Forest models to optimize CPU scheduling decisions.",
+    "longDescription": "This research project explored how machine learning algorithms could improve CPU scheduling in operating systems. I implemented and compared Linear Discriminant Analysis (LDA), Decision Trees, and Random Forest models to predict optimal scheduling decisions based on system state parameters. The Random Forest model achieved 92% accuracy in predicting the best scheduling algorithm to use in different scenarios, leading to a 15% improvement in system throughput and a 12% reduction in average process waiting time compared to traditional scheduling algorithms. The findings were published in a peer-reviewed journal and the implementation was contributed as an experimental module to the Linux kernel.",
+    "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "Linux Kernel", "C", "Statistical Analysis"],
+    "iconType": "Cpu"
+  },
+  {
+    "id": 3,
+    "title": "Nagorik Payments",
+    "category": "Payment Gateway",
+    "description": "Developed a central payment gateway handling 10M+ webhooks daily, ensuring real-time transaction tracking.",
+    "longDescription": "Nagorik Payments is a robust payment processing platform that I designed and implemented for a major financial services company. Built on Laravel and MySQL, this system serves as a centralized gateway that processes over 10 million transaction webhooks daily from various payment providers. The architecture includes a high-performance queuing system, real-time transaction tracking, automated reconciliation, and comprehensive reporting features. The system achieves 99.99% uptime and has processed transactions worth over $500 million since its deployment. Security was a primary concern, and the platform implements industry-standard encryption, tokenization, and compliance with PCI-DSS requirements.",
+    "technologies": ["Laravel", "PHP", "MySQL", "AWS", "Redis", "RabbitMQ", "Docker", "Payment Processing", "RESTful APIs"],
+    "iconType": "Landmark"
+  },
+  {
+    "id": 4,
+    "title": "Sentiment Analysis for Bengali",
+    "category": "NLP & Deep Learning",
+    "description": "Built a deep-learning model trained on Facebook & YouTube data for sentiment classification.",
+    "longDescription": "This research project addressed the gap in natural language processing tools for Bengali, one of the world's most spoken languages. I developed a novel sentiment analysis model specifically designed for Bengali text. The system was trained on a dataset of over 100,000 comments collected from Facebook and YouTube, which I manually annotated with sentiment labels. Using a hybrid CNN-BLSTM (Convolutional Neural Network - Bidirectional Long Short-Term Memory) architecture, the model achieved 87% accuracy in classifying text into positive, negative, and neutral sentiments. This significantly outperformed existing methods for Bengali sentiment analysis. The model has been deployed as an API service that is now being used by several local businesses for social media monitoring and customer feedback analysis.",
+    "technologies": ["Python", "NLP", "TensorFlow", "CNN-BLSTM", "Keras", "NLTK", "Flask", "API Development"],
+    "iconType": "Code"
+  },
+  {
+    "id": 5,
+    "title": "Hand Gesture Controlled Wheelchair",
+    "category": "Embedded Systems & IoT",
+    "description": "Designed a gesture-based wheelchair prototype using an accelerometer & ML algorithms to assist disabled users.",
+    "longDescription": "This humanitarian engineering project focused on creating an affordable, accessible wheelchair control system for individuals with limited mobility in their hands. Using a Raspberry Pi, Arduino microcontrollers, and a custom-designed accelerometer-based wristband, I developed a system that translates subtle hand gestures into wheelchair movement commands. The system employs machine learning algorithms that can be trained to recognize user-specific gestures, allowing for personalization based on individual capabilities. The prototype costs less than $200 to produce, making it significantly more affordable than commercial solutions. Field testing with five users with different mobility impairments showed a 92% success rate in gesture recognition after a 30-minute training period. The project won a national accessibility innovation award and is currently being prepared for broader deployment through a non-profit partner.",
+    "technologies": ["Raspberry Pi", "Python", "Arduino", "Machine Learning", "IoT", "C++", "Embedded Systems", "Accelerometer Sensors"],
+    "iconType": "Accessibility"
+  }
+]
