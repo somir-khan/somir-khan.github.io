@@ -17,7 +17,6 @@ const Contact = () => {
             <div>
               <h3 className="text-lg font-semibold mb-2">Contact Info</h3>
               <p className="mb-1">Email: somirkhanshowrov@gmail.com</p>
-              <p className="mb-1">Phone: (409)-444-7531</p>
               <p className="mb-1">Location: Lafayette, LA, USA</p>
               <div className="mt-4">
                 <a href="mailto:somirkhanshowrov@gmail.com" className="inline-block bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors">

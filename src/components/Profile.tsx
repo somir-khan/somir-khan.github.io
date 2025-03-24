@@ -25,10 +25,6 @@ const Profile = () => {
             <Mail className="w-4 h-4" />
             <span>somirkhanshowrov@gmail.com</span>
           </div>
-{/*           <div className="flex items-center gap-1"> */}
-{/*             <Phone className="w-4 h-4" /> */}
-{/*             <span>(409)-444-7531</span> */}
-{/*           </div> */}
         </div>
         <p className="text-gray-400 max-w-2xl mb-4">
           Results-driven Software Engineer & Data Analyst with 3 years of experience in full-stack development and data-driven solutions. 
