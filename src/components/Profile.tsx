@@ -6,7 +6,7 @@ const Profile = () => {
     <div className="flex flex-col md:flex-row items-start gap-6 mb-10">
       <div className="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden border-2 border-blue-400 flex-shrink-0">
         <img
-          src="https://placehold.co/200x200/1a1a1a/ffffff?text=MSK"
+          src="https://media.licdn.com/dms/image/v2/D4D03AQECA01VcNib-A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729020756662?e=1748476800&v=beta&t=fasGE9PqGPTIO7HptBh4L3hiKfqWVyA4BRY1GC72plI"
           alt="Profile"
           className="w-full h-full object-cover"
         />
@@ -25,10 +25,10 @@ const Profile = () => {
             <Mail className="w-4 h-4" />
             <span>somirkhanshowrov@gmail.com</span>
           </div>
-          <div className="flex items-center gap-1">
-            <Phone className="w-4 h-4" />
-            <span>(409)-444-7531</span>
-          </div>
+{/*           <div className="flex items-center gap-1"> */}
+{/*             <Phone className="w-4 h-4" /> */}
+{/*             <span>(409)-444-7531</span> */}
+{/*           </div> */}
         </div>
         <p className="text-gray-400 max-w-2xl mb-4">
           Results-driven Software Engineer & Data Analyst with 3 years of experience in full-stack development and data-driven solutions. 

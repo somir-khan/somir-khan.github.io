@@ -117,7 +117,7 @@ const Navigation = () => {
             
             <Button variant="outline" className="border-blue-400 text-blue-500 dark:text-blue-400 hover:bg-blue-100/30 dark:hover:bg-blue-900/20">
               <a 
-                href="/resume.pdf" 
+                href="/ac_cv.pdf"
                 download="MD_SOMIR_KHAN_CV.pdf"
                 className="flex items-center gap-2"
               >
