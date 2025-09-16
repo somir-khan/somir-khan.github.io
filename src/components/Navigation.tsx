@@ -45,7 +45,7 @@ const Navigation = () => {
         <div className="hidden lg:flex items-center gap-4">
           <NavigationMenu>
             <NavigationMenuList>
-              {["skills", "experience", "projects", "education", "blog", "awards", "contact"].map((section) => (
+              {["skills", "publications", "experience", "projects", "education", "blog", "awards", "contact"].map((section) => (
                 <NavigationMenuItem key={section}>
                   <NavigationMenuLink
                     className={navigationMenuTriggerStyle()}
@@ -93,7 +93,7 @@ const Navigation = () => {
         <div className="flex flex-col gap-4 mt-4 lg:hidden">
           <NavigationMenu>
             <NavigationMenuList className="flex flex-col gap-2">
-              {["skills", "experience", "projects", "education", "blog", "awards", "contact"].map((section) => (
+              {["skills", "publications", "experience", "projects", "education", "blog", "awards", "contact"].map((section) => (
                 <NavigationMenuItem key={section}>
                   <NavigationMenuLink
                     className={navigationMenuTriggerStyle()}

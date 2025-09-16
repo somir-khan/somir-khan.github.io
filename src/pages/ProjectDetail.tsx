@@ -104,6 +104,12 @@ const ProjectDetail = () => {
               </button>
               <button 
                 className="text-foreground hover:text-blue-500 dark:hover:text-blue-400 transition-colors"
+                onClick={() => goToMainAndScroll('publications')}
+              >
+                Publications
+              </button>
+              <button 
+                className="text-foreground hover:text-blue-500 dark:hover:text-blue-400 transition-colors"
                 onClick={() => goToMainAndScroll('experience')}
               >
                 Experience

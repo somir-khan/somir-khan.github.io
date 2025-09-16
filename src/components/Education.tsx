@@ -10,22 +10,35 @@ const Education = () => {
         Education
       </h2>
       <div className="space-y-6">
-        <Card className="bg-card-hover">
+      <Card className="bg-card-hover">
           <CardHeader>
             <CardTitle>University of Louisiana at Lafayette</CardTitle>
             <CardDescription>
-              Lafayette, LA | Jan 2023 – Present
+              Lafayette, LA | Aug 2025 – Present
             </CardDescription>
           </CardHeader>
           <CardContent>
             <p className="font-semibold mb-2">
-              M.S. in Computer Science (GPA: 3.90/4.00)
+              Ph.D. in Computer Science (GPA: 3.91/4.00)
             </p>
             <p className="mb-2">
-              <span className="font-medium">Thesis:</span> Bibliometric Data Analysis & Authorship Abuse Mitigation
+              <span className="font-medium">Research Area:</span> Turstworthy AI, Foundation Models, and LLMs
             </p>
-            <p>
-              <span className="font-medium">Key Courses:</span> Algorithms, Neural Networks, Image Processing, IT & Network Security
+          </CardContent>
+        </Card>
+        <Card className="bg-card-hover">
+          <CardHeader>
+            <CardTitle>University of Louisiana at Lafayette</CardTitle>
+            <CardDescription>
+              Lafayette, LA | Jan 2023 – May 2025
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <p className="font-semibold mb-2">
+              M.S. in Computer Science (GPA: 3.91/4.00)
+            </p>
+            <p className="mb-2">
+              <span className="font-medium">Thesis:</span> Curbing the Ramifications of Authorship Abuse in Science
             </p>
           </CardContent>
         </Card>

@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "authors": "Md Somir Khan, Mehmet Engin Tozal",
+      "title": "Curbing the Ramifications of Authorship Abuse in Science",
+      "status": "Under Review",
+      "year": 2025,
+      "venue": ""
+    },
+    {
+      "id": 2,
+      "authors": "Md. Main Oddin Chisty, Abu Noman Md Sakib, Md Somir Khan, Md. Badiuzzaman Shuvo",
+      "title": "Prompt Injection Detection Using Ensemble of BERT and LSTM with GloVe Embeddings",
+      "status": "Accepted",
+      "year": 2024,
+      "venue": "International Conference on Electrical and Computer Engineering (ICECE)"
+    }
+  ]

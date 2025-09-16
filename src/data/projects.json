@@ -2,15 +2,24 @@
 [
   {
     "id": 1,
-    "title": "Bibliometric Data Analysis",
+    "title": "Curbing the Ramifications of Authorship Abuse in Science",
     "category": "Data Analysis & Research",
     "description": "Collected & analyzed scholarly data to investigate authorship trends & ethics violations.",
-    "longDescription": "This project involved developing sophisticated web scrapers to collect scholarly data from multiple academic databases including IEEE, ACM, and Scopus. Using Python and R, I analyzed over 10,000 research papers to identify patterns in authorship, citation networks, and potential ethics violations. The project revealed important insights about collaboration networks in academic research and helped identify several cases of self-plagiarism and citation manipulation. The analysis tools developed for this project are now being used by multiple research institutions to evaluate academic integrity.",
+    "longDescription": "In this project, we present a comprehensive analysis of bibliometric data spanning 34 years and covering approximately 4,700 author profiles across multiple scientific disciplines. The repository includes both dataset creation scripts and analysis pipelines designed to examine author trends and evaluate Fibonacci-adjusted bibliometric indicators against their traditional counterparts. Key contributions of the project include the derivation and benchmarking of novel bibliometric metrics, the generation of diverse visualizations such as heatmaps, statistical distributions, and trend analyses, and a strong emphasis on reproducibility through detailed documentation and open-source scripts that enable full replication of the analyses and figures.",
     "technologies": ["Python", "R", "Pandas", "Selenium", "Matplotlib", "BeautifulSoup", "Data Visualization"],
     "iconType": "Database"
   },
   {
     "id": 2,
+    "title": "Diagnosing Parkinson’s Disease Using 1D CNN with DWT Coefficients",
+    "category": "Machine Learning Application",
+    "description": "Explored the application of Discrete Wavelet Transform (DWT) and Convolutional Neural Networks (CNN) for diagnosing Parkinson’s Disease (PD) using gait data.",
+    "longDescription": "This project investigated the feasibility of employing Discrete Wavelet Transform (DWT) in conjunction with Convolutional Neural Networks (CNN) for the diagnosis of Parkinson’s Disease (PD) based on gait patterns. Publicly available gait datasets were preprocessed and analyzed to extract meaningful temporal–frequency features through DWT, which were subsequently used as input to CNN models. The study systematically evaluated the diagnostic performance of this hybrid approach, highlighting its potential in supporting early detection and clinical decision-making for PD.",
+    "technologies": ["Python", "Scikit-learn", "Pandas", "NumPy", "Linux Kernel", "C", "Statistical Analysis"],
+    "iconType": "Cpu"
+  },
+  {
+    "id": 3,
     "title": "Dynamic CPU Scheduling using ML",
     "category": "Machine Learning Application",
     "description": "Compared LDA, Decision Trees, and Random Forest models to optimize CPU scheduling decisions.",
@@ -19,7 +28,7 @@
     "iconType": "Cpu"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Nagorik Payments",
     "category": "Payment Gateway",
     "description": "Developed a central payment gateway handling 10M+ webhooks daily, ensuring real-time transaction tracking.",
@@ -28,7 +37,7 @@
     "iconType": "Landmark"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Sentiment Analysis for Bengali",
     "category": "NLP & Deep Learning",
     "description": "Built a deep-learning model trained on Facebook & YouTube data for sentiment classification.",
@@ -37,11 +46,11 @@
     "iconType": "Code"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Hand Gesture Controlled Wheelchair",
     "category": "Embedded Systems & IoT",
     "description": "Designed a gesture-based wheelchair prototype using an accelerometer & ML algorithms to assist disabled users.",
-    "longDescription": "This humanitarian engineering project focused on creating an affordable, accessible wheelchair control system for individuals with limited mobility in their hands. Using a Raspberry Pi, Arduino microcontrollers, and a custom-designed accelerometer-based wristband, I developed a system that translates subtle hand gestures into wheelchair movement commands. The system employs machine learning algorithms that can be trained to recognize user-specific gestures, allowing for personalization based on individual capabilities. The prototype costs less than $200 to produce, making it significantly more affordable than commercial solutions. Field testing with five users with different mobility impairments showed a 92% success rate in gesture recognition after a 30-minute training period. The project won a national accessibility innovation award and is currently being prepared for broader deployment through a non-profit partner.",
+    "longDescription": "This humanitarian engineering project focused on creating an affordable, accessible wheelchair control system for individuals with limited mobility in their hands. Using a Raspberry Pi, Arduino microcontrollers, and a custom-designed accelerometer-based wristband, I developed a system that translates subtle hand gestures into wheelchair movement commands. The system employs machine learning algorithms that can be trained to recognize user-specific gestures, allowing for personalization based on individual capabilities.",
     "technologies": ["Raspberry Pi", "Python", "Arduino", "Machine Learning", "IoT", "C++", "Embedded Systems", "Accelerometer Sensors"],
     "iconType": "Accessibility"
   }
