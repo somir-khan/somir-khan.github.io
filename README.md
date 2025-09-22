@@ -1,17 +1,31 @@
 # Hi, I'm Md Somir Khan 👋
 
-I’m a **Ph.D. candidate in Computer Science at the University of Louisiana at Lafayette** working on **Trustworthy AI, Medical AI and foundation models**.  
-I bring **three years of full-stack industry experience** in scalable web platforms and cloud infrastructure.
+🎓 Ph.D. student in Computer Science @ UL Lafayette  
+🤖 Research: Trustworthy AI, Medical AI, Foundation Models  
+💻 3+ years as Software Engineer (Full-stack & Cloud)  
+📚 Publications in AI/ML (Prompt Injection Detection, Bibliometrics)  
 
-### What I do
-- **Research** – studying robustness and ethics in AI/ML; authored papers on authorship integrity and prompt-injection detection.  
-- **Engineering** – built a payment gateway handling 1M+ transactions/day and chatbots/E-KYC systems in production.  
-- **Teaching** – mentor students as a Graduate TA for data structures & software design.
+---
 
-### Skills snapshot
-Python • Java • C++ • Laravel/Vue/React • SQL & NoSQL • AWS & Docker • TensorFlow/Scikit-learn
+### 🔧 Skills
+- **Languages:** Python, Java, C++, PHP, SQL, R  
+- **Web/Frameworks:** Laravel, Vue.js, React, Node.js  
+- **AI/ML:** TensorFlow, Scikit-learn, Keras, PyTorch  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Cloud/DevOps:** AWS (EC2, S3, Lambda), Docker, Nginx  
 
-### Looking ahead
-I’m seeking a **Summer 2026 internship** in AI/ML research or full-stack engineering, where I can apply both my research insights and engineering experience. If you’re working on something exciting, let’s connect!
+---
 
-📫 **Contact:** somirkhanshowrov@gmail.com
+### 📈 GitHub Stats
+![Somir's GitHub stats](https://github-readme-stats.vercel.app/api?username=somir-khan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somir-khan&layout=compact&theme=radical)
+
+---
+
+### 🌱 Looking Ahead
+I’m seeking a **Summer 2026 Internship** in AI/ML research or full-stack engineering.  
+Let’s connect!  
+
+📫 **Email:** somirkhanshowrov@gmail.com  
+🌐 **Portfolio:** [somir-khan.github.io](https://somir-khan.github.io)  
