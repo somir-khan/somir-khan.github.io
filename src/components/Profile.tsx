@@ -41,10 +41,10 @@ const Profile = () => {
 
         {/* Socials */}
         <div className="flex space-x-4">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" aria-label="GitHub">
+          <a href="https://github.com/somir-khan" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" aria-label="GitHub">
             <Github className="w-6 h-6" />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/mdsomirkhan/" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" aria-label="LinkedIn">
             <Linkedin className="w-6 h-6" />
           </a>
           <a href="mailto:somirkhanshowrov@gmail.com" className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" aria-label="Email">
