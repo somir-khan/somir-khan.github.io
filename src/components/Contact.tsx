@@ -30,15 +30,15 @@ const Contact = () => {
                 Follow me on social media or check out my GitHub for more projects.
               </p>
               <div className="flex space-x-4">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-blue-400 transition-colors">
+                <a href="https://github.com/somir-khan" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-blue-400 transition-colors">
                   <Github className="w-6 h-6" />
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-blue-400 transition-colors">
+                <a href="https://www.linkedin.com/in/mdsomirkhan/" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-blue-400 transition-colors">
                   <Linkedin className="w-6 h-6" />
                 </a>
-                <a href="tel:+14094447531" className="text-foreground hover:text-blue-400 transition-colors">
+                {/* <a href="tel:+14094447531" className="text-foreground hover:text-blue-400 transition-colors">
                   <Phone className="w-6 h-6" />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
